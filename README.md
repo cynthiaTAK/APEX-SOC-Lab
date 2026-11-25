@@ -128,3 +128,23 @@ Raw log evidence is retained privately until reviewed and sanitized for publicat
 ## Disclaimer
 
 This project was conducted in an authorized, isolated lab environment for educational and portfolio purposes. No external systems were targeted.
+
+## SOC Lab Evidence Screenshots
+
+The following screenshots document an authorized SSH attack simulation, security monitoring, automated response, and incident investigation.
+
+### 1. SSH Authentication Logs
+![SSH Authentication Logs](screenshots/01-ssh-authentication-logs.png)
+
+### 2. Fail2Ban Detection and IP Banning
+![Fail2Ban Detection](screenshots/02-fail2ban-detection.png)
+
+### 3. nftables Firewall Configuration
+![nftables Firewall Rules](screenshots/03-nftables-firewall-rules.png)
+
+### 4. Incident Investigation
+![Incident Investigation](screenshots/04-incident-investigation.png)
+
+### 5. Incident Response Documentation
+![Incident Response Report](screenshots/05-incident-response-report.png)
+
